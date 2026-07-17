@@ -2,6 +2,26 @@
 
 Interactive Power BI dashboard to analyze restaurant performance metrics including sales, ratings, and trends.
 
+## Dashboard Preview
+
+**Overview — revenue, orders, order status and trends**
+![Overview](screenshots/01_overview.png)
+
+**Customer Analytics — repeat behaviour, top customers, signup trend**
+![Customer Analytics](screenshots/02_customer_analytics.png)
+
+**Restaurant & Cuisine Analysis — ratings, orders and revenue by cuisine**
+![Restaurant & Cuisine Analysis](screenshots/03_restaurant_cuisine_analysis.png)
+
+**Delivery Performance — late orders, cancellations, city-wise delivery times**
+![Delivery Performance](screenshots/04_delivery_performance.png)
+
+**KPI Explorer — switch the trend chart between KPIs with field parameters**
+![KPI Explorer](screenshots/05_kpi_explorer.png)
+
+**Restaurant Drill-Through — per-restaurant detail page**
+![Restaurant Drill-Through](screenshots/06_restaurant_drillthrough.png)
+
 ## Features
 
 - **Sales Analysis** — Track revenue across locations, categories, and time periods
